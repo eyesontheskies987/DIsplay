@@ -1,14 +1,14 @@
-14:38:47 06-20-19
+14:46:31 06-20-19
 
-NOTevil hss3uro2hsxfogfq.onion 1
-
-
-TEST2 3g2upl4pq6kufc4m.onion 1
+NOTevil UP
 
 
-BAD sdhfkhdjfhksdjhj.onion 0
+TEST2 UP
 
 
-FACEBOOK facebookcorewwwi.onion 1
+BAD 0
+
+
+FACEBOOK UP
 
 
