@@ -1,5 +1,5 @@
-14:15:25 06-20-19
-TEST1 hss3uro2hsxfogfq.onion 1
-TEST2 3g2upl4pq6kufc4m.onion 1
-TEST3 sdhfkhdjfhksdjhj.onion 0
+14:19:53 06-20-19
+NOTevil hss3uro2hsxfogfq.onion 1
+TEST2 3g2upl4pq6kufc4m.onion 0
+BAD sdhfkhdjfhksdjhj.onion 0
 FACEBOOK facebookcorewwwi.onion 1
